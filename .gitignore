@@ -1,0 +1,7 @@
+*.pth
+Pets/
+SneakyClassified/
+PetsClassified/
+StandardizedPets/
+lightning_logs
+__pycache__
